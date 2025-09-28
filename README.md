@@ -1,12 +1,26 @@
-# React + Vite
+Link: 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**3DSpline** adalah proyek interaktif berbasis web yang menggunakan spline 3D (model / grafik 3D) untuk memperkaya pengalaman antarmuka pengguna.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Fitur Utama
 
-## Expanding the ESLint configuration
+- Tampilan 3D / interaktif menggunakan **Spline / engine 3D**  
+- Navigasi atau interaksi objek 3D di dalam canvas  
+- Integrasi mulus antara elemen UI React dan elemen 3D  
+- Responsif & rendering 3D yang dioptimalkan agar tetap lancar  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Teknologi yang Digunakan
+
+| Teknologi / Library       | Fungsi                          |
+|---------------------------|---------------------------------|
+| React                     | Framework UI utama              |
+| Vite                      | Bundler & dev server cepat      |
+| Spline / WebGL / Three.js | Untuk rendering & manipulasi 3D |
+| Tailwind CSS / CSS        | Styling UI dan layout           |
+| react-icons               | Ikon UI pendukung               |
+
+---
