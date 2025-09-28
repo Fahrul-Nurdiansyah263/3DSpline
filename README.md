@@ -1,4 +1,4 @@
-Link: 
+Link: arul-3d-spline.vercel.app
 
 **3DSpline** adalah proyek interaktif berbasis web yang menggunakan spline 3D (model / grafik 3D) untuk memperkaya pengalaman antarmuka pengguna.
 
